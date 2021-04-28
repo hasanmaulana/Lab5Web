@@ -29,7 +29,7 @@ Input yang dimasukan dapat dipakai kembali sebagai variabel.
 
 enter image description here
 
-Prompt dapat ditulis seperti berikut :
+Prompt dapat ditulis seperti berikut :.
 
 enter image description here
 
