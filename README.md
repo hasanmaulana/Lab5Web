@@ -20,7 +20,7 @@ output nya
 1. lalu sy mencoba membuat validasi form 
 input nya...
 ![validasi 2](https://user-images.githubusercontent.com/56497286/116408454-025ce780-a85d-11eb-98de-705592717c80.png)
-![validasi 2,2](https://user-images.githubusercontent.com/56497286/116408465-0557d800-a85d-11eb-84e2-df4c736a018e.png
+![validasi 2,2](https://user-images.githubusercontent.com/56497286/116408465-0557d800-a85d-11eb-84e2-df4c736a018e.png)
 
 1. Menambahkan Style CSS pada validasi form
 Input setelah di beri style melalui css
