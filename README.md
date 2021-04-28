@@ -30,3 +30,4 @@ Input setelah di beri style melalui css
 lalu refresh dan ini hasil kedua nya...
 ![ouput validasi 1 css](https://user-images.githubusercontent.com/56497286/116407939-7945b080-a85c-11eb-9be1-efa2ba0bfcff.png)
 ![ouput validasi 2 css](https://user-images.githubusercontent.com/56497286/116408026-8fec0780-a85c-11eb-81e1-1b32a847831f.png)
+.
